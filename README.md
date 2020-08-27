@@ -3,7 +3,7 @@
 ## 1 Preface
 Because of the 2020 epidemic, school management does not allow us to go back to school, so most of our work is online.
 
-## Hardware
+### 1.1 Hardware
 We test the inference speeds of Deep-FSMs on an NVIDIA Jetson TX2, a GPU platform targets at power-constrained mobile applications.
 
 ## 2 Deep-FSM
